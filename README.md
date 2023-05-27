@@ -2,6 +2,9 @@
 
 MovieFinder is a powerful movie search tool that helps you discover new movies and explore your favorite genres. With intuitive search filters and a comprehensive database, you'll never struggle to find the perfect movie again."
 
+Demo Link : 
+https://film-scout.netlify.app
+
 To utilize this project, just follow these straightforward instructions:
 
 
